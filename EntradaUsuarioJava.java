@@ -1,3 +1,4 @@
+//inputs
 import java.util.Scanner;
 
 public class EntradaUsuarioJava {
