@@ -1,5 +1,5 @@
 //implements
-package ex_classes;
+package src.ex_classes;
 
 // A classe Mobi implementa a interface Carro
 public class Mobi implements Carro {

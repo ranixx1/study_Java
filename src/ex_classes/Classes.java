@@ -1,5 +1,5 @@
 //classes
-package ex_classes;
+package src.ex_classes;
 
 // O package define o diretório onde o arquivo está localizado.
 // Ele organiza as classes, evita conflitos de nomes e permite agrupar classes relacionadas.

@@ -1,5 +1,5 @@
 //abstract
-package ex_classes;
+package src.ex_classes;
 
 public  abstract class SerVivo { //abstract: não pode ser instanciada
     
