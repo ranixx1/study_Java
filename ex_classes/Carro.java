@@ -1,3 +1,4 @@
+//carcaça(interface)
 package ex_classes;
 
 public interface Carro {    //define a carcaça
