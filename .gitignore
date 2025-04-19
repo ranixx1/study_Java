@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# Generated JAR files
+*.jar
+
+# Log files
+*.log
+
+# Build directories
+bin/
+build/
+out/
+
+# IDE files (opcional, se usar Eclipse, IntelliJ, etc)
+*.iml
+.idea/
+*.swp
+*.bak
+*.tmp
+*.~ 
