@@ -1,3 +1,4 @@
+//HERANÇA
 package ex_classes;
 
 // A classe Humano herda de SerVivo usando herança
