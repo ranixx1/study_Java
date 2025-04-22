@@ -18,11 +18,11 @@ public class Question9 {
                 if (!tokenValido)
                     gerarNovoToken();
                     System.out.println("\nNovo token gerado:" + tokenAtual);
-                    System.out.println("Digite o token:");
+                    System.out.print("Digite o token:");
                     }
                 }, 30000, 300000); //30000 milissegundos = 30 segundos
 
-                try (Scanner scanner = new Scanner(System.in)){
+                Scanner scanner = new Scanner(System.in);
                     while(true) {
                         System.out.print("Digite o token: ");
                         String input = scanner.nextLine();
@@ -35,8 +35,9 @@ public class Question9 {
                             tokenValido= false;
                         };
                     }
+                    scanner.close();
                 }
-                }
+                
                 private static void gerarNovoToken()
                 {
                     SecureRandom secureRandom = new SecureRandom();
