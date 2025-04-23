@@ -1,5 +1,5 @@
 package lista1;
-// contar quantas vezes aparece o nome Bia na lista
+// contar quantas vezes aparece o nome Bia no array
 public class Question15 {
     public static void main(String[]args){
         String alunos[] = {"Ana","Bia","Lucas","Pedro","Lucas","Bia"};
