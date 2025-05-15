@@ -1,3 +1,4 @@
+package miniprojetos;
 //TREINO DE ESTRUTURAS DE REPETIÇÃO E INPUT
 import java.util.Scanner;
 
