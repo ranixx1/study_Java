@@ -75,6 +75,10 @@
                     return ``Ola´´ ---> retorna para o codigo que chamou a string ``Ola´´
                     return; ---> passa a execução para ele mesmo
 
+            Entrada de dados com buffered reader//
+                import.java.io.BuferredReader
+                
+
 
 JSE: Java Standard Edition ---> core do sistema (pacote-base para desenvolver programas)
 JEE: Java Enterprise Edition ---> desenvolvimento web (dispositivos moveis e embarcados)
