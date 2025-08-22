@@ -1,4 +1,4 @@
-package lista1;
+package exercicios.lista1;
 //crie um programa que peça um número e dado o número subtraia 1 até zero
 import java.util.Scanner;
 public class Question12 {

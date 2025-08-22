@@ -1,7 +1,7 @@
 //Área de um triângulo:
 //Leia a base e a altura de um triângulo e calcule sua área.
 //Fórmula: Área = (base * altura) / 2
-package lista1;
+package exercicios.lista1;
 import java.util.Scanner;
 public class Question5 {
     public static void main(String[]args){

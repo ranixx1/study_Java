@@ -1,4 +1,4 @@
-package lista1;
+package exercicios.lista1;
 //criar um programa que elabore um orçamento de uma construtora para o calculo do valor total de construçao de uma piscina
 // cubagem da piscina *100
 import java.util.Scanner;

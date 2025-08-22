@@ -1,6 +1,6 @@
 //Par ou ímpar:
 
-package lista1;
+package exercicios.lista1;
 import java.util.Scanner;
 public class Question6 {
     public static void main(String[]args){

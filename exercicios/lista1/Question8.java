@@ -1,4 +1,4 @@
-package lista1;
+package exercicios.lista1;
 import java.util.Random;
 public class Question8 {
     public static void main (String[]args){

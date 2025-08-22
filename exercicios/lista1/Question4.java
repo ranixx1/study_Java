@@ -1,6 +1,6 @@
 //Faça um programa que leia uma temperatura em Celsius e a converta para Fahrenheit.
 //Fórmula: F = C * 1.8 + 32
-package lista1;
+package exercicios.lista1;
 
 import java.util.Scanner;
 

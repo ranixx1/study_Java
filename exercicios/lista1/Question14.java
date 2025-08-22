@@ -1,4 +1,4 @@
-package lista1;
+package exercicios.lista1;
 //crie com o operado do e while um que peça um numero ao usúario e ele conte do 0, 1,2 ate numeros vezes com for
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package lista1;
+package exercicios.lista1;
 // contar quantas vezes aparece o nome Bia no array
 public class Question15 {
     public static void main(String[]args){

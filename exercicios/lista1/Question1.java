@@ -1,6 +1,6 @@
 //questão 1
 // Faça um programa que leia a data de nascimento de uma pessoa e mostre-a em dias.
-package lista1;
+package exercicios.lista1;
 
 import java.time.LocalDate;
 import java.time.Period;

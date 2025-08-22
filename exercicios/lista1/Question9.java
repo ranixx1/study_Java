@@ -1,4 +1,4 @@
-package lista1;
+package exercicios.lista1;
 import java.security.SecureRandom;
 import java.util.Scanner;
 import java.util.Timer;

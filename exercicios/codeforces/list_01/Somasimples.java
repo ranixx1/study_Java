@@ -1,4 +1,4 @@
-package codeforces.list_01;
+package exercicios.codeforces.list_01;
 
 import java.util.Scanner;
 public class Somasimples {

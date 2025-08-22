@@ -1,5 +1,5 @@
 //Fazer um programa que imprima a média aritmética de 10 numeros inteiros e a soma deles.
-package lista1;
+package exercicios.lista1;
 import java.util.Scanner;
 public class Question2 {
     public static void main (String[]args){

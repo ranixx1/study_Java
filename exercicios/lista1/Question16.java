@@ -1,5 +1,5 @@
 //projeto: criar um sistema de login e cadastro que peça pra pedir promoção
-package lista1;
+package exercicios.lista1;
 
 import java.util.HashMap;
 import java.util.Scanner;

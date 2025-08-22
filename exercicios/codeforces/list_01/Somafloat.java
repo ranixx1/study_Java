@@ -1,4 +1,4 @@
-package codeforces.list_01;
+package exercicios.codeforces.list_01;
 
 public class Somafloat {
     public static void main(String[]args){
