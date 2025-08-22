@@ -1,5 +1,5 @@
 package exercicios.lista1;
-//crie com o operado do e while um que peça um numero ao usúario e ele conte do 0, 1,2 ate numeros vezes
+//crie com o operador do e while um que peça um numero ao usúario e ele conte do 0, 1,2 ate numeros vezes
 import java.util.Scanner;
 public class Question13 {
     public static void main(String[]args){
