@@ -1,5 +1,5 @@
 //HERANÇA
-package src.ex_classes;
+package ex_classes;
 
 // A classe Humano herda de SerVivo usando herança
 public class Humano extends SerVivo {

@@ -1,6 +1,4 @@
-//abstract
-package src.ex_classes;
-
+package ex_classes;
 public  abstract class SerVivo { //abstract: não pode ser instanciada
     
     protected int idade;

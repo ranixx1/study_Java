@@ -1,5 +1,5 @@
-//implemets.ex2 
-package src.ex_classes;
+package ex_classes;
+
 
 // A classe Sandero implementa a interface Carro
 public class Sandero implements Carro {
