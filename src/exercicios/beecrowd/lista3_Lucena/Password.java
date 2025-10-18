@@ -1,4 +1,3 @@
-package exercicios.beecrowd.lista3_Lucena;
 
 import java.util.Scanner;
 
