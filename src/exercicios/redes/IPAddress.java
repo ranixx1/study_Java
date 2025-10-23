@@ -13,7 +13,7 @@ public class IPAddress {
         this.maskInt = ipToInt(maskStr);
 
         int redeInt = ipInt & maskInt;
-        int broadcastInt = redeInt | (~maskInt);
+        int broadcastInt = redeInt | (~maskInt & 0xFFFFFFFF); //inverte todos os bits
 
         this.rede = intToIp(redeInt);
         this.broadcast = intToIp(broadcastInt);
@@ -23,7 +23,7 @@ public class IPAddress {
         String[] partes = ip.split("\\.");
         int n = 0;
         for (String p : partes) {
-            n = (n << 8) | Integer.parseInt(p);
+            n = (n << 8) | Integer.parseInt(p); // 00000000.00000000.00000000.00000000
         }
         return n;
     }
@@ -37,8 +37,7 @@ public class IPAddress {
     }
 
     private int maskToCidr() {
-        int bits = Integer.bitCount(maskInt);
-        return bits;
+        return Integer.bitCount(maskInt);
     }
 
     public boolean pertenceARede(String ipStr) {
@@ -52,7 +51,6 @@ public class IPAddress {
         return ipStr + "/" + maskToCidr();
     }
 
-    // ===== EXEMPLO DE TESTE =====
     public static void main(String[] args) {
         IPAddress ip = new IPAddress("192.168.1.10", "255.255.255.0");
         System.out.println(ip);                        
