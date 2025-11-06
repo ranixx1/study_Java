@@ -1,4 +1,4 @@
-package ex_classes;
+package poo.ex_classes;
 
 
 // A classe Sandero implementa a interface Carro

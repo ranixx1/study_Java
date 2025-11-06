@@ -1,5 +1,5 @@
 //implements
-package ex_classes;
+package poo.ex_classes;
 
 
 // A classe Mobi implementa a interface Carro

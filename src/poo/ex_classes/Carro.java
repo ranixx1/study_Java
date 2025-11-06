@@ -1,5 +1,5 @@
 //carcaça(interface)
-package ex_classes;
+package poo.ex_classes;
 
 public interface Carro {    //define a carcaça
     void acelerar();

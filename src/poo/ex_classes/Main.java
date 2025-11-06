@@ -1,4 +1,4 @@
-package ex_classes;
+package poo.ex_classes;
 
 public class Main {
     public static void main(String[] args) {
